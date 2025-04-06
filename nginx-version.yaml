@@ -1,2 +1,2 @@
 nginx:
-  version: "{{ freight.images[0].tag }}"
+  version: freight.images[0].tag
